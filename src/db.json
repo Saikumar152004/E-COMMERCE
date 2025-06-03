@@ -1,0 +1,28 @@
+{
+  "userData": [
+    {
+      "id": "031b",
+      "name": "vani",
+      "mobile": "23222323",
+      "email": "vani@gmail.com",
+      "city": "bng",
+      "password": "1234"
+    },
+    {
+      "id": "b538",
+      "name": "veera",
+      "mobile": "9440469476",
+      "email": "veera@gmail.com",
+      "city": "atp",
+      "password": "1122"
+    },
+    {
+      "id": "d52f",
+      "name": "kiran",
+      "mobile": "9440469476",
+      "email": "suresh@gmail.com",
+      "city": "hyd",
+      "password": "3322"
+    }
+  ]
+}
